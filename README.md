@@ -5,9 +5,9 @@
 
 <!--  -->
 
-🔭 I’m currently studying at NSBM Green University
-🌱 I’m currently web and mobile application development
-👯 I’m looking to collaborate open source and commercial projects
+🔭 I’m currently studying at NSBM Green University <br/>
+🌱 I’m currently web and mobile application development <br/>
+👯 I’m looking to collaborate open source and commercial projects <br/>
 
 
 <!-- -->
