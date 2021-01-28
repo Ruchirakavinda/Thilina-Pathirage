@@ -34,7 +34,7 @@
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 
-![Thilina's github stats](https://github-readme-stats.vercel.app/api?username=Thilina-Pathirage&layout=compact&langs_count=8&theme=light)
+<div style="width: 100%;">![Thilina's github stats](https://github-readme-stats.vercel.app/api?username=Thilina-Pathirage&layout=compact&langs_count=8&theme=light)</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilina-Pathirage&layout=compact&langs_count=8&theme=light)
 
 <br />
