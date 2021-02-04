@@ -36,5 +36,5 @@
 
 ![Thilina's github stats](https://github-readme-stats.vercel.app/api?username=Thilina-Pathirage&layout=compact&langs_count=8&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilina-Pathirage&layout=compact&langs_count=8&theme=light)
-
+<br />
 <br />
