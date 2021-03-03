@@ -13,8 +13,8 @@
 <!-- -->
 
 
-![Thilina's github stats](https://github-readme-stats.vercel.app/api?username=Thilina-Pathirage&layout=compact&langs_count=8&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilina-Pathirage&layout=compact&langs_count=8&theme=light)
+![Thilina's github stats](https://github-readme-stats.vercel.app/api?username=Thilina-Pathirage&layout=compact&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilina-Pathirage&layout=compact&langs_count=8&theme=dark)
 <br />
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
