@@ -9,11 +9,6 @@
 🌱 I’m currently learning <strong>Web and Mobile application development</strong> <br/>
 👯 I’m looking to collaborate <strong>open source and commercial projects</strong> <br/>
 
-
-
-
-<!-- -->
-<br />
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
