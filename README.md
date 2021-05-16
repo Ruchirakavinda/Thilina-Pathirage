@@ -1,5 +1,5 @@
 ### Thilina Pathirage
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thilina-Pathirage&color=brightgreen" alt="Harindu973" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thilina-Pathirage&color=brightgreen" alt="Thilina-Pathirage" /> </p>
 
 <!--
 **Thilina-Pathirage/Thilina-Pathirage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
