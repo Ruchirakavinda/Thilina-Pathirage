@@ -13,8 +13,9 @@
 ### Languages and Tools:
 <p align="left">
  <img alt="flat" src="https://img.shields.io/badge/style-flat-green?logo=appveyor&amp;style=flat">
+  ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) 
 </p>
- ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) 
+
 
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
