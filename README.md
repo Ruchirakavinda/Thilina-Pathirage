@@ -9,5 +9,5 @@
 #### Some interested technologies
 <p align="left">
  <img alt="React" src="https://img.shields.io/badge/-React-flat-green?logo=react&amp;style=flat"> 
- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra)
+ - [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy 
 </p>
