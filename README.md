@@ -12,5 +12,5 @@
 
 ### Languages and Tools:
 <p align="left">
- <img alt="flat" src="https://img.shields.io/badge/style-flat-green?logo=github&amp;style=flat"> 
+ <img alt="flat" src="https://img.shields.io/badge/style-flat-green?logo=react&amp;style=React"> 
 </p>
