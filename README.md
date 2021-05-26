@@ -1,5 +1,5 @@
 ![Thilina Pathirage](me.jpg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thilina-Pathirage&color=brightgreen" alt="Thilina-Pathirage" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thilina-Pathirage&color=brightgreen" alt="Thilina-Pathirage" /> <img alt="flat" src="https://img.shields.io/badge/style-flat-green?logo=appveyor&amp;style=flat"></p>
 
 <!--
 **Thilina-Pathirage/Thilina-Pathirage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
