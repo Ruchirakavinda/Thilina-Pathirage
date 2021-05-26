@@ -8,5 +8,5 @@
 
 #### Some interested technologies
 <p align="left">
- <img alt="React" src="https://img.shields.io/badge/style-flat-lightgreen?logo=react&amp;style=React"> 
+ <img alt="React" src="https://img.shields.io/badge/React-flat-lightgreen?logo=react&amp;style=React"> 
 </p>
