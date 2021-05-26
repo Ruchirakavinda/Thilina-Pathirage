@@ -1,4 +1,4 @@
-### Thilina Pathirage
+![Thilina Pathirage](me.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thilina-Pathirage&color=brightgreen" alt="Thilina-Pathirage" /> </p>
 
 <!--
