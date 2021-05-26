@@ -12,11 +12,5 @@
 
 ### Languages and Tools:
 <p align="left">
- <img alt="flat" src="https://img.shields.io/badge/style-flat-green?logo=appveyor&amp;style=flat">
-  ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) 
+ <img alt="flat" src="https://img.shields.io/badge/style-flat-green?logo=github&amp;style=flat"> 
 </p>
-
-
-
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
-<!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
