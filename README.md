@@ -8,5 +8,6 @@
 
 #### Some interested technologies
 <p align="left">
- <img alt="React" src="https://img.shields.io/badge/green?logo=react&amp;style=flat"> 
+ <img alt="React" src="https://img.shields.io/badge/-React-flat-green?logo=react&amp;style=flat"> 
+ [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra)
 </p>
