@@ -11,4 +11,4 @@
 
 </p>
 
-[![ReactJS](https://ionicabizau.github.io/badges/react.svg)](https://www.paypal.me/anuraghazra)
+[![ReactJS](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra)
